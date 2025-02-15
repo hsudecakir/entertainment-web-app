@@ -45,7 +45,7 @@
               "large": "/images/large/undiscovered-cities--large.svg"
           },
           "regular": {
-              "small": "/images/small/undiscovered-cities--regular-small.svg",
+              "small": "/images/small/undiscovered-cities-small.svg",
               "medium": "/images/large/undiscovered-cities--regular--large.svg",
               "large": "/images/large/undiscovered-cities--regular--large.svg"
           }

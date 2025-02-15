@@ -129,7 +129,7 @@ table {
   display: flex;
   align-items: start;
   gap: 16px;
-  padding: 24px 16px 24px 2px;
+  padding: 24px 16px 24px 16px;
 }
 
 .search-input-container input{
@@ -359,7 +359,7 @@ span.circle{
   
   .search-input-container{
     gap: 24px;
-    padding: 33px 25px 33px 11px;
+    padding: 33px 25px;
   }
   
   .search-input-container input{
